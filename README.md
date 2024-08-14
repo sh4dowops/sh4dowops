@@ -1,16 +1,14 @@
-## Hi there 👋
+**bem vindo ao meu perfil**🔵 🔴
 
-<!--
-**sh4dowops/sh4dowops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e bryan
 
-Here are some ideas to get you started:
+-estou estudando no alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+estou me desenvolvendo na linguagem javascripts
+
+utilizo esse espaço para minha organizaçao e compartilharmento dos meus projetos desenvolvidos.
+
+
+![](https://media1.tenor.com/m/XNRRNuKYxHwAAAAC/right-now-it%E2%80%99s-just-that-everything-feels-right-sorry-amanai.gif)
+
+
